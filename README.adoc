@@ -101,6 +101,11 @@ A4. Yes. The link:./android/[Android module] provides functionality to detect
 and connect to YubiKeys over both USB and NFC.
 
 
+=== Prerelease Versions
+
+To checkout our pre release builds, use [jitpack.io](https://jitpack.io/#Yubico/yubikit-android) by following their how to.
+
+
 === Additional Resources
 * Yubico Developers site - https://developers.yubico.com[developers.yubico.com]
 * Android Developers site - https://developer.android.com[developer.android.com]
